@@ -14,3 +14,4 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements
 lorem ipsum - www.ipsum.com / baconipsum.com / broipsum.com
 
 # section 3 notes - intermediate html
+picsum photos - https://picsum.photos/
