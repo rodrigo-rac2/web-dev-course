@@ -131,3 +131,6 @@ dist
 
 # vscode extensions
 .DS_Store
+
+# webstorm
+.idea
