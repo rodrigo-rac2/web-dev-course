@@ -17,3 +17,6 @@ lorem ipsum - www.ipsum.com / baconipsum.com / broipsum.com
 picsum photos - https://picsum.photos/
 
 # section 4 notes - multi-page websites
+github pages - https://pages.github.com/
+
+# section 5 notes - introduction to CSS
